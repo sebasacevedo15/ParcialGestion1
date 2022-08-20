@@ -38,7 +38,10 @@ Lo cual indica que en general los estudiantes con una nota alta en algun examen 
 
 5.Al realizar análisis de los promedios obtenidos por genero, no se encuentra un género que en general tenga mejor promedio en todas las asignaturas. Pero se puede defir que en math los estudiantes con género no binario tienen mejor puntaje, en reading lo tienen el género femenino y en writing lo tiene igualmente el género femenino. El genero masculino no se aleja notablemente del promedio. 
 
-6.Se toma la muestra del df original filtrando sólo los valores mayores en calificación de lectura para el percentil 85, con esto se analiza el nivel de escolaridad de los padres obteniendo:
+6.Se toma la muestra del df original filtrando sólo los valores mayores en calificación de lectura para el percentil 85
+Se encuentra una muestra de 97 estudiantes con esta condición 
+
+Con esto se analiza el nivel de escolaridad de los padres obteniendo:
 associate's degree    26.804124
 some college          21.649485
 bachelor's degree     18.556701

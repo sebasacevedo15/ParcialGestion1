@@ -17,8 +17,7 @@ Se encuentra que las variables tienen el formato autoasignado correcto.
 
 2. Calidad de los datos
   -Inicialmente se encuentra que en todas las columnas hay datos nulos.
-Para las filas de calificación, raza y genero con datos nulos se decide borrar estos registros, para el tipo de alimantación cuando no tenga data se asume que tiene alimentación estandar. Para los registros nulos de nivel educativo de los padres se le asigna "some college"
-  -En la variable de nivel de educacion de los padres se encuentras varios datos con el mismo significado, se procede a dejar uno de los dos.
+  -Se eliminan las columnas con datos nulos, para facilidad del ejercicio analítico
   
 
 3. La materia con mejor promedio es:

@@ -3,6 +3,8 @@ Parcial Juan Sebastian Acevedo Gestion de datos
 ########
 
 
+###################Se sube otro readme en formato txt para el caso que los datos en las respuestas no se puedan ver con las tabulaciones realizadas
+
 1. Tipos de variables
 gender                          object	Categórica nominal
 race/ethnicity                  object	Categórica nominal
